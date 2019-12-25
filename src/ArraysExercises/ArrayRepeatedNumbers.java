@@ -20,7 +20,7 @@ public class ArrayRepeatedNumbers {
                 }
             }
         }
-        
+
             // Print repeated elements
             for (i = 0; i < numbersStore.length; i++) {
                 if (numbersStore[i] > 1) {
