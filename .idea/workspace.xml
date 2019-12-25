@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6edec2a1-beb4-407d-8b48-8c639884fe55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Inga\IdeaProjects\JavaHWs" />
+        <option value="C:\Users\Inga\IdeaProjects\JavaHWs\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VRpMrNqPLsBdlJBQbl5C3RQM0C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ArrayRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysExercises.ArrayRunner" />
+      <module name="JavaHWs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6edec2a1-beb4-407d-8b48-8c639884fe55" name="Default Changelist" comment="" />
+      <created>1577225716475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577225716475</updated>
+    </task>
+    <task id="LOCAL-00001" summary="HomeWork 25/12/2019: Calculation of repeated elements and making Array in revert order">
+      <created>1577295004455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577295004456</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HomeWork 25/12/2019: Calculation of repeated elements and making Array in revert order" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork 25/12/2019: Calculation of repeated elements and making Array in revert order" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1577295003247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577295003247" />
+    <state x="571" y="276" width="260" height="214" key="Github.ShareDialog" timestamp="1577294722161">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="571" y="276" width="260" height="214" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1577294722161" />
+    <state x="496" y="88" key="Github.UntrackedFilesDialog" timestamp="1577294740175">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="496" y="88" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577294740175" />
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1577294766410">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577294766410" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1577294766410">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577294766410" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1577294766409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577294766409" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1577294766410">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577294766410" />
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom" timestamp="1577292653833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577292653833" />
+    <state width="1286" height="204" key="GridCell.Tab.1.center" timestamp="1577292653832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577292653832" />
+    <state width="1286" height="204" key="GridCell.Tab.1.left" timestamp="1577292653832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577292653832" />
+    <state width="1286" height="204" key="GridCell.Tab.1.right" timestamp="1577292653833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577292653833" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1577270516607">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577270516607" />
+  </component>
+</project>
