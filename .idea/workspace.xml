@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6edec2a1-beb4-407d-8b48-8c639884fe55" name="Default Changelist" comment="HomeWork 25/12/2019: Calculation of repeated elements and making Array in revert order; Array Runner contains 2 tasks so far ready">
+    <list default="true" id="6edec2a1-beb4-407d-8b48-8c639884fe55" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArraysExercises/ArrayRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysExercises/ArrayRunner.java" afterDir="false" />
     </list>
@@ -121,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577369758175</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HomeWork 25/12/2019: Calculation of repeated elements and making Array in revert order; Array Runner contains 2 tasks so far ready">
+      <created>1577369946040</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577369946040</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,10 +150,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="HomeWork 25/12/2019: Calculation of repeated elements and making Array in revert order; Array Runner contains 2 tasks so far ready" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1577369925929">
+    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1577369944983">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577369925929" />
+    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577369944983" />
     <state x="571" y="276" width="260" height="214" key="Github.ShareDialog" timestamp="1577294722161">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

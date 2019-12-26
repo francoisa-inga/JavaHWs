@@ -12,8 +12,7 @@ public class ArrayRunner {
          */
 
         //Calculate repeated elements
-       // arrayMain.displayRepeatedElements(numbersMainArray);
-        arrayMain.displayRepeatedElements(numbersMainArray);
+         arrayMain.displayRepeatedElements(numbersMainArray);
 
         //Display array in revert order
         ArrayReverseOrder arrayReversedOrders = new ArrayReverseOrder();
