@@ -1,6 +1,8 @@
 package ArraysExercises;
 
-public class ArrayRepeatedNumbers {
+import java.util.ArrayList;
+
+public class ArrayRepeatedNumbersV1Arraylist {
 
     public void displayRepeatedElements(int[] numbers){
         int i,j;
@@ -10,6 +12,9 @@ public class ArrayRepeatedNumbers {
         for(i=0;i<numbersStore.length;i++) {
             numbersStore[i] = 1;
         }
+
+        //Create an ArrayList to store the repeated elements
+        ArrayList<Integer>resultRepeatedArray = new ArrayList<Integer>();
 
         // Comparison of elements, searching for repeats
         for(i=0;i< numbers.length;i++) {
@@ -21,12 +26,18 @@ public class ArrayRepeatedNumbers {
             }
         }
 
-            // Print repeated elements
+            // Fill Arraylist of repeated elements
             for (i = 0; i < numbersStore.length; i++) {
                 if (numbersStore[i] > 1) {
-                    System.out.println("The element [" + i + "] =" + numbers[i] + ", repeated " + numbersStore[i] + " times");
+                    resultRepeatedArray.add(numbers[i]);
                 }
             }
+
+        // Print repeated elements
+                for(i=0;i<resultRepeatedArray.size();i++){
+                    System.out.println("Element of the result array #"+i+" = "+resultRepeatedArray.get(i));
+                }
+
  //       }
     }
 }

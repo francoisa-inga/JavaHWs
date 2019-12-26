@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6edec2a1-beb4-407d-8b48-8c639884fe55" name="Default Changelist" comment="" />
+    <list default="true" id="6edec2a1-beb4-407d-8b48-8c639884fe55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHWs/ArraysExercises/ArrayRepeatedNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHWs/ArraysExercises/ArrayRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHWs/ArraysExercises/ArrayRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysExercises/ArrayRepeatedNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysExercises/ArrayRepeatedNumbersV1Arraylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysExercises/ArrayRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysExercises/ArrayRunner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="184" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaHWs" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,6 +47,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ArraysExercises" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="ArrayRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -85,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577295004456</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HomeWork 25/12/2019: Calculation of repeated elements and making Array in revert order">
+      <created>1577295279951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577295279951</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,7 +118,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -104,10 +131,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="HomeWork 25/12/2019: Calculation of repeated elements and making Array in revert order" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1577295003247">
+    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1577369046944">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577295003247" />
+    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577369046944" />
     <state x="571" y="276" width="260" height="214" key="Github.ShareDialog" timestamp="1577294722161">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -116,41 +143,72 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="496" y="88" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577294740175" />
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1577294766410">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1577369047024">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577294766410" />
-    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1577294766410">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577369047024" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1577369047024">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577294766410" />
-    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1577294766409">
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577369047024" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1577369047024">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577294766409" />
-    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1577294766410">
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577369047024" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1577369047024">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577294766410" />
-    <state width="1286" height="204" key="GridCell.Tab.1.bottom" timestamp="1577292653833">
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577369047024" />
+    <state width="1323" height="204" key="GridCell.Tab.1.bottom" timestamp="1577314501497">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577292653833" />
-    <state width="1286" height="204" key="GridCell.Tab.1.center" timestamp="1577292653832">
+    <state width="1323" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577314501497" />
+    <state width="1323" height="204" key="GridCell.Tab.1.center" timestamp="1577314501496">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577292653832" />
-    <state width="1286" height="204" key="GridCell.Tab.1.left" timestamp="1577292653832">
+    <state width="1323" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577314501496" />
+    <state width="1323" height="204" key="GridCell.Tab.1.left" timestamp="1577314501496">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577292653832" />
-    <state width="1286" height="204" key="GridCell.Tab.1.right" timestamp="1577292653833">
+    <state width="1323" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577314501496" />
+    <state width="1323" height="204" key="GridCell.Tab.1.right" timestamp="1577314501497">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577292653833" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1577270516607">
+    <state width="1323" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577314501497" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1577352334258">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577270516607" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577352334258" />
+    <state x="267" y="118" width="846" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1577310735098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="267" y="118" width="846" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1577310735098" />
+    <state x="353" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577310611652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="353" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577310611652" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArraysExercises/ArrayRepeatedNumbersV2Array.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog>
+          <selected-grouping-rules>
+            <grouping-rule id="XBreakpointGroupingByClassRule" />
+          </selected-grouping-rules>
+        </breakpoints-dialog>
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaHWs$ArrayRunner.ic" NAME="ArrayRunner Coverage Results" MODIFIED="1577309419176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ArraysExercises.*</FILTER>
+    </SUITE>
   </component>
 </project>
