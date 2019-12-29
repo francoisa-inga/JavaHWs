@@ -2,14 +2,18 @@ package ArraysExercises;
 
 public class ArrayRunner {
     public static void main(String[] args) {
-        //Create and initialize array
-        ArrayRepeatedNumbersV1Arraylist arrayMain = new ArrayRepeatedNumbersV1Arraylist();
-        int[] numbersMainArray = {1,1,1,4,5,5,7,8,9,5};
 
-        /** Temporarily disabled, under debugging (another variant of Task displaying the duplicated elements)
-        int[] numbersMainArray = {0,0,7,5,5,7,9,9};
+        //Declare an array where we'll calculate repeated elements
+        int[] numbersMainArray = {1,1,1,3,5,5,8,5};
+
+        //Create and initialize array for Variant#1 (via ArrayList)
+        ArrayRepeatedNumbersV1Arraylist arrayMain = new ArrayRepeatedNumbersV1Arraylist();
+        arrayMain.displayRepeatedElements(numbersMainArray);
+
+        //Create an array for Variant#2 (via simple Array)
         ArrayRepeatedNumbersV2Array arrayMainArray = new ArrayRepeatedNumbersV2Array();
-         */
+        arrayMainArray.displayRepeatedElements(numbersMainArray);
+
 
         //Calculate repeated elements
          arrayMain.displayRepeatedElements(numbersMainArray);
