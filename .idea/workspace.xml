@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6edec2a1-beb4-407d-8b48-8c639884fe55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork4/HW4SwimmingPool/Puzzle4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork4/HW4SwimmingPool/Puzzle4b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork4/Mixes/Mix4Variant1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork4/Mixes/Mix4Variant2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork4/Mixes/Mix4Variant3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork4/Mixes/Mix4Variant4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork4/PackageA/XCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork4/PackageB/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork4/PackageB/ClockTestDrive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaHWs/ArraysExercises/ArrayRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHWs/ArraysExercises/ArrayRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraysExercises/ArrayRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysExercises/ArrayRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +52,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/HomeWork4" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="HomeWork4.PackageA" />
       <recent name="ArraysExercises" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Inga\IdeaProjects\JavaHWs\src\HomeWork4" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Puzzle4">
     <configuration name="ArrayRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysExercises.ArrayRunner" />
       <module name="JavaHWs" />
@@ -65,8 +77,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ClockTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork4.PackageB.ClockTestDrive" />
+      <module name="JavaHWs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork4.PackageB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Puzzle4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork4.HW4SwimmingPool.Puzzle4" />
+      <module name="JavaHWs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork4.HW4SwimmingPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork4.PackageA.XCopy" />
+      <module name="JavaHWs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork4.PackageA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Puzzle4" />
+        <item itemvalue="Application.ClockTestDrive" />
+        <item itemvalue="Application.XCopy" />
         <item itemvalue="Application.ArrayRunner" />
       </list>
     </recent_temporary>
@@ -136,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577370184720</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="HomeWork 25/12/2019: Calculation of repeated elements and making Array in revert order; Array Runner contains 2 tasks so far ready">
+      <created>1577660390849</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577660390850</updated>
+    </task>
+    <task id="LOCAL-00008" summary="HomeWork 25/12/2019: Calculation of repeated elements and making Array in revert order; Array Runner contains 2 tasks so far ready">
+      <created>1577660466622</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577660466622</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,10 +230,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="511" y="206" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1366.728@0.0.1366.728" timestamp="1577371813591" />
-    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1577660389473">
+    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1577660465477">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577660389473" />
+    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577660465477" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1577371750226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -178,22 +246,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="496" y="88" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577294740175" />
-    <state width="1323" height="302" key="GridCell.Tab.0.bottom" timestamp="1577660361549">
+    <state width="1323" height="302" key="GridCell.Tab.0.bottom" timestamp="1577974005768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577660361549" />
-    <state width="1323" height="302" key="GridCell.Tab.0.center" timestamp="1577660361549">
+    <state width="1323" height="302" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577974005768" />
+    <state width="1323" height="302" key="GridCell.Tab.0.center" timestamp="1577974005768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577660361549" />
-    <state width="1323" height="302" key="GridCell.Tab.0.left" timestamp="1577660361549">
+    <state width="1323" height="302" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577974005768" />
+    <state width="1323" height="302" key="GridCell.Tab.0.left" timestamp="1577974005768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577660361549" />
-    <state width="1323" height="302" key="GridCell.Tab.0.right" timestamp="1577660361549">
+    <state width="1323" height="302" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577974005768" />
+    <state width="1323" height="302" key="GridCell.Tab.0.right" timestamp="1577974005768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577660361549" />
+    <state width="1323" height="302" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577974005768" />
     <state width="1323" height="252" key="GridCell.Tab.1.bottom" timestamp="1577652818010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -214,14 +282,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="395" y="79" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1577369688045" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1577370189424">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1577660494657">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577370189424" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1577642827679">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577660494657" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1577714897007">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577642827679" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577714897007" />
     <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577660414530">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
