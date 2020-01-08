@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6edec2a1-beb4-407d-8b48-8c639884fe55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork6/MagnetsHW6/ArrayListMagnet.java" afterDir="false" />
+    <list default="true" id="6edec2a1-beb4-407d-8b48-8c639884fe55" name="Default Changelist" comment="08/01/2020. HomeWork, Chapter 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork6/MagnetsHW6/ArrayListMagnet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork6/MagnetsHW6/ArrayListMagnet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578083777953</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="08/01/2020. HomeWork, Chapter 6">
+      <created>1578485731679</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1578485731680</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,7 +257,8 @@
     <MESSAGE value="HomeWork 25/12/2019: Calculation of repeated elements and making Array in revert order" />
     <MESSAGE value="HomeWork 25/12/2019: Calculation of repeated elements and making Array in revert order; Array Runner contains 2 tasks so far ready" />
     <MESSAGE value="03/01/2020. HomeWork, Chapter 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="03/01/2020. HomeWork, Chapter 5" />
+    <MESSAGE value="08/01/2020. HomeWork, Chapter 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="08/01/2020. HomeWork, Chapter 6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="23" key="#Project_Structure" timestamp="1577975254945">
@@ -261,10 +269,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="511" y="206" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1366.728@0.0.1366.728" timestamp="1577371813591" />
-    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1578083776625">
+    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1578485871423">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578083776625" />
+    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578485871423" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1577371750226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
