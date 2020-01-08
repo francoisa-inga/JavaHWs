@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6edec2a1-beb4-407d-8b48-8c639884fe55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork5/JVM_HomeWork/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork5/LostBlocks/HW5Variant1/MixFor5V1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork5/LostBlocks/HW5Variant2/MixFor5V2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork5/LostBlocks/HW5Variant3/MixFor5V3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork5/LostBlocks/HW5Variant4/MixFor5V4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork5/LostBlocks/HW5Variant5/MixFor5V5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork5/LostBlocks/HW5Variant6/MixFor5V6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork5/MagnetsHM5/MultiFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork6/MagnetsHW6/ArrayListMagnet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,13 +61,13 @@
       <recent name="C:\Users\Inga\IdeaProjects\JavaHWs\src\HomeWork4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MixFor5V6">
-    <configuration name="MixFor5V2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork5.LostBlocks.HW5Variant2.MixFor5V2" />
+  <component name="RunManager" selected="Application.ArrayListMagnet">
+    <configuration name="ArrayListMagnet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork6.MagnetsHW6.ArrayListMagnet" />
       <module name="JavaHWs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork5.LostBlocks.HW5Variant2.*" />
+          <option name="PATTERN" value="HomeWork6.MagnetsHW6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListMagnet" />
         <item itemvalue="Application.MixFor5V6" />
         <item itemvalue="Application.MixFor5V5" />
         <item itemvalue="Application.MixFor5V4" />
         <item itemvalue="Application.MixFor5V3" />
-        <item itemvalue="Application.MixFor5V2" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577974089478</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="03/01/2020. HomeWork, Chapter 5">
+      <created>1578083777952</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1578083777953</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,7 +249,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HomeWork 25/12/2019: Calculation of repeated elements and making Array in revert order" />
     <MESSAGE value="HomeWork 25/12/2019: Calculation of repeated elements and making Array in revert order; Array Runner contains 2 tasks so far ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork 25/12/2019: Calculation of repeated elements and making Array in revert order; Array Runner contains 2 tasks so far ready" />
+    <MESSAGE value="03/01/2020. HomeWork, Chapter 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="03/01/2020. HomeWork, Chapter 5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="23" key="#Project_Structure" timestamp="1577975254945">
@@ -260,10 +261,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="511" y="206" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1366.728@0.0.1366.728" timestamp="1577371813591" />
-    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1577974087705">
+    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1578083776625">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577974087705" />
+    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578083776625" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1577371750226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -276,22 +277,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="496" y="88" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577294740175" />
-    <state width="1323" height="302" key="GridCell.Tab.0.bottom" timestamp="1578052190417">
+    <state width="1323" height="302" key="GridCell.Tab.0.bottom" timestamp="1578436536434">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578052190417" />
-    <state width="1323" height="302" key="GridCell.Tab.0.center" timestamp="1578052190417">
+    <state width="1323" height="302" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578436536434" />
+    <state width="1323" height="302" key="GridCell.Tab.0.center" timestamp="1578436536434">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578052190417" />
-    <state width="1323" height="302" key="GridCell.Tab.0.left" timestamp="1578052190417">
+    <state width="1323" height="302" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578436536434" />
+    <state width="1323" height="302" key="GridCell.Tab.0.left" timestamp="1578436536433">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578052190417" />
-    <state width="1323" height="302" key="GridCell.Tab.0.right" timestamp="1578052190417">
+    <state width="1323" height="302" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578436536433" />
+    <state width="1323" height="302" key="GridCell.Tab.0.right" timestamp="1578436536434">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578052190417" />
+    <state width="1323" height="302" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578436536434" />
     <state width="1323" height="252" key="GridCell.Tab.1.bottom" timestamp="1577652818010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -312,14 +313,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="395" y="79" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1577369688045" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1577974130372">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1578083788057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577974130372" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1578040815475">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578083788057" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1578480874560">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578040815475" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578480874560" />
     <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577660414530">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
