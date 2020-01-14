@@ -2,30 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6edec2a1-beb4-407d-8b48-8c639884fe55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Compiler/Dragon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Compiler/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Compiler/MonsterTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Compiler/Vampire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Prints/PrintsVariant1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Prints/PrintsVariant1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Prints/PrintsVariant1/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Prints/PrintsVariant1/Mixed2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Prints/PrintsVariant2/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Prints/PrintsVariant2/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Prints/PrintsVariant2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Prints/PrintsVariant2/Mixed2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Prints/PrintsVariant3/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Prints/PrintsVariant3/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Prints/PrintsVariant3/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Prints/PrintsVariant3/Mixed2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Prints/PrintsVariant4/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Prints/PrintsVariant4/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Prints/PrintsVariant4/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Prints/PrintsVariant4/Mixed2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/SwimmingPoolHW7/Boat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/SwimmingPoolHW7/RowBoat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/SwimmingPoolHW7/SailBoat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork7/SwimmingPoolHW7/TestBoats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork8/SwimmingPoolHW8/Acts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork8/SwimmingPoolHW8/Clowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork8/SwimmingPoolHW8/Nose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork8/SwimmingPoolHW8/Of76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork8/SwimmingPoolHW8/Picasso.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaFXApplication" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -89,20 +71,7 @@
       <recent name="C:\Users\Inga\IdeaProjects\JavaHWs\src\HomeWork4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestBoats">
-    <configuration name="Mixed2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork7.Prints.PrintsVariant2.Mixed2" />
-      <module name="JavaHWs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork7.Prints.PrintsVariant2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Of76">
     <configuration name="Mixed2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork7.Prints.PrintsVariant3.Mixed2" />
       <module name="JavaHWs" />
@@ -142,6 +111,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Of76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork8.SwimmingPoolHW8.Of76" />
+      <module name="JavaHWs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork8.SwimmingPoolHW8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestBoats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork7.SwimmingPoolHW7.TestBoats" />
       <module name="JavaHWs" />
@@ -157,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Of76" />
         <item itemvalue="Application.TestBoats" />
         <item itemvalue="Application.MonsterTestDrive" />
         <item itemvalue="Application.Mixed2 (3)" />
         <item itemvalue="Application.Mixed2 (2)" />
-        <item itemvalue="Application.Mixed2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578485908981</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="12/01/2020. HomeWork, Chapter 7">
+      <created>1578924877696</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1578924877697</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,7 +282,8 @@
     <MESSAGE value="HomeWork 25/12/2019: Calculation of repeated elements and making Array in revert order; Array Runner contains 2 tasks so far ready" />
     <MESSAGE value="03/01/2020. HomeWork, Chapter 5" />
     <MESSAGE value="08/01/2020. HomeWork, Chapter 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="08/01/2020. HomeWork, Chapter 6" />
+    <MESSAGE value="12/01/2020. HomeWork, Chapter 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="12/01/2020. HomeWork, Chapter 7" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="23" key="#Project_Structure" timestamp="1577975254945">
@@ -304,10 +294,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="511" y="206" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1366.728@0.0.1366.728" timestamp="1577371813591" />
-    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1578485907793">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1579014001355">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578485907793" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579014001355" />
+    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1578924876017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578924876017" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1577371750226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -320,22 +314,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="496" y="88" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577294740175" />
-    <state width="1323" height="302" key="GridCell.Tab.0.bottom" timestamp="1578924595873">
+    <state width="1323" height="302" key="GridCell.Tab.0.bottom" timestamp="1579016671697">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578924595873" />
-    <state width="1323" height="302" key="GridCell.Tab.0.center" timestamp="1578924595873">
+    <state width="1323" height="302" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579016671697" />
+    <state width="1323" height="302" key="GridCell.Tab.0.center" timestamp="1579016671697">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578924595873" />
-    <state width="1323" height="302" key="GridCell.Tab.0.left" timestamp="1578924595872">
+    <state width="1323" height="302" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579016671697" />
+    <state width="1323" height="302" key="GridCell.Tab.0.left" timestamp="1579016671697">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578924595872" />
-    <state width="1323" height="302" key="GridCell.Tab.0.right" timestamp="1578924595873">
+    <state width="1323" height="302" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579016671697" />
+    <state width="1323" height="302" key="GridCell.Tab.0.right" timestamp="1579016671697">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578924595873" />
+    <state width="1323" height="302" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579016671697" />
     <state width="1323" height="252" key="GridCell.Tab.1.bottom" timestamp="1577652818010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -356,14 +350,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="395" y="79" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1577369688045" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1578485912873">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1578924884077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578485912873" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1578912305127">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578924884077" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1579023254289">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578912305127" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579023254289" />
     <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577660414530">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
