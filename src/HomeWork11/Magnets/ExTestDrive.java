@@ -1,5 +1,7 @@
 package HomeWork11.Magnets;
 
+import com.sun.corba.se.impl.protocol.AddressingDispositionException;
+
 public class ExTestDrive {
 
     static void doRisky(String t) throws MyEx {

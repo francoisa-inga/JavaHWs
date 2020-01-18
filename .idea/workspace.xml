@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6edec2a1-beb4-407d-8b48-8c639884fe55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork11/Magnets/ExTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork11/Magnets/MyEx.java" afterDir="false" />
+    <list default="true" id="6edec2a1-beb4-407d-8b48-8c639884fe55" name="Default Changelist" comment="18/01/2020. HomeWork, Chapter 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork11/Magnets/ExTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork11/Magnets/ExTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork11/Magnets/MyEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork11/Magnets/MyEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579023393895</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="18/01/2020. HomeWork, Chapter 11">
+      <created>1579379596573</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1579379596575</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,7 +295,8 @@
     <MESSAGE value="08/01/2020. HomeWork, Chapter 6" />
     <MESSAGE value="12/01/2020. HomeWork, Chapter 7" />
     <MESSAGE value="14/01/2020. HomeWork, Chapter 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="14/01/2020. HomeWork, Chapter 8" />
+    <MESSAGE value="18/01/2020. HomeWork, Chapter 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="18/01/2020. HomeWork, Chapter 11" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="23" key="#Project_Structure" timestamp="1577975254945">
@@ -303,10 +311,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579014001355" />
-    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1579023392483">
+    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1579379871906">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579023392483" />
+    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579379871906" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1577371750226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -319,22 +327,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="496" y="88" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577294740175" />
-    <state width="1323" height="302" key="GridCell.Tab.0.bottom" timestamp="1579378136465">
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom" timestamp="1579379831096">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579378136465" />
-    <state width="1323" height="302" key="GridCell.Tab.0.center" timestamp="1579378136465">
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579379831096" />
+    <state width="1323" height="2" key="GridCell.Tab.0.center" timestamp="1579379831096">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579378136465" />
-    <state width="1323" height="302" key="GridCell.Tab.0.left" timestamp="1579378136465">
+    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579379831096" />
+    <state width="1323" height="2" key="GridCell.Tab.0.left" timestamp="1579379831096">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579378136465" />
-    <state width="1323" height="302" key="GridCell.Tab.0.right" timestamp="1579378136465">
+    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579379831096" />
+    <state width="1323" height="2" key="GridCell.Tab.0.right" timestamp="1579379831096">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579378136465" />
+    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579379831096" />
     <state width="1323" height="252" key="GridCell.Tab.1.bottom" timestamp="1577652818010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

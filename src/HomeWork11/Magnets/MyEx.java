@@ -1,3 +1,3 @@
 package HomeWork11.Magnets;
 
-class MyEx extends Exception {}
+class MyEx extends Exception{}
