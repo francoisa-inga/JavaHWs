@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6edec2a1-beb4-407d-8b48-8c639884fe55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork8/SwimmingPoolHW8/Acts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork8/SwimmingPoolHW8/Clowns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork8/SwimmingPoolHW8/Nose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork8/SwimmingPoolHW8/Of76.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork8/SwimmingPoolHW8/Picasso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork11/Magnets/ExTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork11/Magnets/MyEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +68,13 @@
       <recent name="C:\Users\Inga\IdeaProjects\JavaHWs\src\HomeWork4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Of76">
-    <configuration name="Mixed2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork7.Prints.PrintsVariant3.Mixed2" />
+  <component name="RunManager" selected="Application.ExTestDrive">
+    <configuration name="ExTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork11.Magnets.ExTestDrive" />
       <module name="JavaHWs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork7.Prints.PrintsVariant3.*" />
+          <option name="PATTERN" value="HomeWork11.Magnets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mixed2 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork7.Prints.PrintsVariant4.Mixed2" />
+    <configuration name="MiniMiniMusicApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesChapter11.SoundsOfMusic.MiniMiniMusicApp" />
       <module name="JavaHWs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork7.Prints.PrintsVariant4.*" />
+          <option name="PATTERN" value="ExercisesChapter11.SoundsOfMusic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MonsterTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork7.Compiler.MonsterTestDrive" />
+    <configuration name="MusicTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesChapter11.SoundsOfMusic.MusicTest1" />
       <module name="JavaHWs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork7.Compiler.*" />
+          <option name="PATTERN" value="ExercisesChapter11.SoundsOfMusic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExTestDrive" />
+        <item itemvalue="Application.MiniMiniMusicApp" />
+        <item itemvalue="Application.MusicTest1" />
         <item itemvalue="Application.Of76" />
         <item itemvalue="Application.TestBoats" />
-        <item itemvalue="Application.MonsterTestDrive" />
-        <item itemvalue="Application.Mixed2 (3)" />
-        <item itemvalue="Application.Mixed2 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578924877697</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="14/01/2020. HomeWork, Chapter 8">
+      <created>1579023393895</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1579023393895</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,7 +287,8 @@
     <MESSAGE value="03/01/2020. HomeWork, Chapter 5" />
     <MESSAGE value="08/01/2020. HomeWork, Chapter 6" />
     <MESSAGE value="12/01/2020. HomeWork, Chapter 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="12/01/2020. HomeWork, Chapter 7" />
+    <MESSAGE value="14/01/2020. HomeWork, Chapter 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="14/01/2020. HomeWork, Chapter 8" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="23" key="#Project_Structure" timestamp="1577975254945">
@@ -298,10 +303,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579014001355" />
-    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1578924876017">
+    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1579023392483">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578924876017" />
+    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579023392483" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1577371750226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -314,22 +319,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="496" y="88" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577294740175" />
-    <state width="1323" height="302" key="GridCell.Tab.0.bottom" timestamp="1579016671697">
+    <state width="1323" height="302" key="GridCell.Tab.0.bottom" timestamp="1579378136465">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579016671697" />
-    <state width="1323" height="302" key="GridCell.Tab.0.center" timestamp="1579016671697">
+    <state width="1323" height="302" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579378136465" />
+    <state width="1323" height="302" key="GridCell.Tab.0.center" timestamp="1579378136465">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579016671697" />
-    <state width="1323" height="302" key="GridCell.Tab.0.left" timestamp="1579016671697">
+    <state width="1323" height="302" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579378136465" />
+    <state width="1323" height="302" key="GridCell.Tab.0.left" timestamp="1579378136465">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579016671697" />
-    <state width="1323" height="302" key="GridCell.Tab.0.right" timestamp="1579016671697">
+    <state width="1323" height="302" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579378136465" />
+    <state width="1323" height="302" key="GridCell.Tab.0.right" timestamp="1579378136465">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="302" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579016671697" />
+    <state width="1323" height="302" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579378136465" />
     <state width="1323" height="252" key="GridCell.Tab.1.bottom" timestamp="1577652818010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -350,14 +355,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="395" y="79" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1577369688045" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1578924884077">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1579023416492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578924884077" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1579023254289">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579023416492" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1579351108798">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579023254289" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579351108798" />
+    <state x="456" y="54" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579281005663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="456" y="54" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1579281005663" />
     <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577660414530">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -370,6 +379,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1578057607342" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1579300731150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1579300731150" />
     <state x="353" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577491761776">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
